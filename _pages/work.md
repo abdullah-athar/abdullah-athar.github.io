@@ -37,12 +37,11 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "More Details"
 
-
   - image_path: assets/images/ai-art/header.png
     alt: "AI art side project"
     title: false
     excerpt: "Collaboration with Slade School of Fine Art on the intricate ways in which technology and human experience are interlinked."
-    url: "/slade"
+    url: "/slade-ai"
     btn_class: "btn--primary"
     btn_label: "More Details"
 
