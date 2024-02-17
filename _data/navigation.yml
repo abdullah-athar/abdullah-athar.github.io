@@ -1,7 +1,7 @@
 main:
-  - title: "Work"
-    url: /posts/
-  - title: "Contact Me"
-    url: /categories/
-  - title: "About"
+  - title: "Home"
     url: /
+  - title: "Work"
+    url: /work/
+  - title: "Contact"
+    url: /contact/
