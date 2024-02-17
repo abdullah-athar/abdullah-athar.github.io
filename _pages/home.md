@@ -7,8 +7,7 @@ title: false
 ---
 
 ## Professional Summary
-Experienced AI/ML engineer driven by a passion for mathematical modeling and computational techniques. Skilled in unraveling complex data and transforming needs into impactful solutions that propel progress and enrich human interactions. Let's collaborate on transformative solutions that explore the exciting frontiers of AI, machine learning and software engineering.
-
+Experienced AI/ML engineer with a strong passion for mathematical modeling and computational techniques. Proficient in analyzing complex data and converting requirements into effective solutions that drive advancements and enhance human interactions. Eager to collaborate on innovative solutions that push the boundaries of AI, machine learning, and software engineering.
 ## About me
 
 I am an AI/ML Engineer II at [GSK.ai](https://www.gsk.ai), where I work in the Target Discovery team to build and deploy machine learning models to discover transformational medicines. My research involves applications of machine learning for improving in-vivo success of protein-ligand binding through in-silico methods. I’ve also led the development of scalable ETL pipelines for Terabyte (TB) scale datasets, and achieved improved joint embeddings through on multi-view datasets through the use of self-supervised contrastive learning techniques. 
