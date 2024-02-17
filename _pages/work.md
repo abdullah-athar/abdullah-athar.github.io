@@ -34,7 +34,7 @@ feature_row:
   - image_path: assets/images/ai-art/header.png
     alt: "AI art side project"
     title: false
-    excerpt: "Collaboration with Slade School of Fine Art on stable diffusion"
+    excerpt: "Collaboration with Slade School of Fine Art on the intricate ways in which technology and human experience are interlinked."
     url: "/slade" 
     btn_class: "btn--primary"
     btn_label: "More Details"

@@ -46,3 +46,16 @@ excerpt_separator: "<!--more-->"
 - **Data Analysis**: Analyzed experimental data to derive actionable insights.
 - **Collaboration**: Worked closely with renowned researchers to achieve project objectives.
 - **Problem Solving**: Identified and addressed challenges in image analysis and classification.
+
+<div style="display: flex; justify-content: space-between;">
+  {% if page.previous %}
+    <div>
+      <a href="{{ page.previous.url }}">← Previous Post</a>
+    </div>
+  {% endif %}
+  {% if page.next %}
+    <div>
+      <a href="{{ page.next.url }}">Next Post →</a>
+    </div>
+  {% endif %}
+</div>

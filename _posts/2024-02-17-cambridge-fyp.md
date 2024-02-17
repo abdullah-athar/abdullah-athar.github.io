@@ -59,3 +59,17 @@ In summary, my findings demonstrated the resilience of JSM to changes in hip rot
 My work builds on the work produced in this paper: 
 
 Turmezei, T.D., Treece, G.M., Gee, A.H. et al. Quantitative 3D imaging parameters improve prediction of hip osteoarthritis outcome. Sci Rep 10, 4127 (2020). https://doi.org/10.1038/s41598-020-59977-2
+
+
+<div style="display: flex; justify-content: space-between;">
+  {% if page.previous %}
+    <div>
+      <a href="{{ page.previous.url }}">← Previous Post</a>
+    </div>
+  {% endif %}
+  {% if page.next %}
+    <div>
+      <a href="{{ page.next.url }}">Next Post →</a>
+    </div>
+  {% endif %}
+</div>
