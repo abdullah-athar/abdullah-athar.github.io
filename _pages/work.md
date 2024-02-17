@@ -30,6 +30,15 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "More Details"
 
+  - image_path: assets/images/phenonaut-header.png
+    alt: "Phenonaut"
+    title: false
+    excerpt: "Phenonaut: multiomics data integration for phenotypic space exploration. A publication I worked on at GSK."
+    url: "/phenonaut" 
+    btn_class: "btn--primary"
+    btn_label: "More Details"
+
+
 
   - image_path: assets/images/ai-art/header.png
     alt: "AI art side project"
