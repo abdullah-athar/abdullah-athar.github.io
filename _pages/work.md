@@ -13,6 +13,14 @@ header:
   overlay_image: /assets/images/tech-helix.png
 
 feature_row:
+  - image_path: assets/images/aiml-header.jpeg
+    alt: "AI/ML"
+    title: false
+    excerpt: "AIML Research Engineering to discover transformational medicines at GSK"
+    url: "/aiml-gsk" 
+    btn_class: "btn--primary"
+    btn_label: "More Details"
+
   - image_path: assets/images/dna-image.jpeg
     alt: "FLP rotation 1"
     title: false
