@@ -13,11 +13,11 @@ header:
   overlay_image: /assets/images/tech-helix.png
 
 feature_row:
-  - image_path: assets/images/gurdon_inst_logo_900.jpg
-    alt: "Gurdon Institute"
+  - image_path: assets/images/dna-image.jpeg
+    alt: "FLP rotation 1"
     title: false
-    excerpt: "Working on phenotypic data embeddings using CNNs at nobel laureate John Gurdon's Lab."
-    url: "/gurdon-lab" 
+    excerpt: "Leveraging high content profiling data at GSK for enhancing how we approach drug discovery"
+    url: "/drugseq" 
     btn_class: "btn--primary"
     btn_label: "More Details"
 
@@ -34,6 +34,14 @@ feature_row:
     title: false
     excerpt: "Phenonaut: multiomics data integration for phenotypic space exploration. A publication I worked on at GSK."
     url: "/phenonaut" 
+    btn_class: "btn--primary"
+    btn_label: "More Details"
+  
+  - image_path: assets/images/gurdon_inst_logo_900.jpg
+    alt: "Gurdon Institute"
+    title: false
+    excerpt: "Working on phenotypic data embeddings using CNNs at nobel laureate John Gurdon's Lab."
+    url: "/gurdon-lab" 
     btn_class: "btn--primary"
     btn_label: "More Details"
 

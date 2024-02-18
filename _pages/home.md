@@ -13,7 +13,7 @@ Experienced AI/ML engineer with a strong passion for mathematical modeling and c
 I am an AI/ML Engineer II at [GSK.ai](https://www.gsk.ai), where I work in the Target Discovery team to build and deploy machine learning models to discover transformational medicines. My research involves applications of machine learning for improving in-vivo success of protein-ligand binding through in-silico methods. I’ve also led the development of scalable ETL pipelines for Terabyte (TB) scale datasets, and achieved improved joint embeddings through on multi-view datasets through the use of self-supervised contrastive learning techniques. 
 
 ![gsk-pic](../assets/images/home-pic.jpeg)
-Working with biological data is very humbling, as every data-related assumption is challenged by the inconsistencies created by intrinsic noise within biological systems. It has been a steep learning curve, and I have thoroughly enjoyed every part of it.*
+*Working with biological data is very humbling, as every data-related assumption is challenged by the inconsistencies created by intrinsic noise within biological systems. It has been a steep learning curve, and I have thoroughly enjoyed every part of it.*
 
 I received a scholarship from [The Vicky Noon Foundation](https://www.noon-foundation.org) to study an integrated Masters in Information Engineering and Machine Learning from the University of Cambridge where I graduated with a starred distinction, ranking 10th out of a cohort of 370. While at university, I’ve had a broad range of experiences, from working at [BAE systems](https://www.baesystems.com/en/home) on their helmet mounted displays, to working in Nobel Laureate Sir John Gurdon’s lab on deriving features from images of perturbed frog cells. 
 
