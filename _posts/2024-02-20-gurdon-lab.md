@@ -41,8 +41,7 @@ excerpt_separator: "<!--more-->"
 - Played a pivotal role in the interdisciplinary research efforts at the forefront of molecular biology and artificial intelligence.
 
 ### Key Skills Utilized:
-- **Artificial Intelligence**: Applied CNNs for image analysis and classification tasks.
-- **Machine Learning**: Developed algorithms to extract meaningful features from microscopy images.
+- **AI/ML**: Applied CNNs for image analysis and classification tasks. Developed algorithms to extract meaningful features from microscopy images.
 - **Data Analysis**: Analyzed experimental data to derive actionable insights.
 - **Collaboration**: Worked closely with renowned researchers to achieve project objectives.
 - **Problem Solving**: Identified and addressed challenges in image analysis and classification.
