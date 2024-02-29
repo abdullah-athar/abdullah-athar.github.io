@@ -15,48 +15,49 @@ header:
 feature_row:
   - image_path: assets/images/aiml-header.jpeg
     alt: "AI/ML"
-    title: false
-    excerpt: "AIML Research Engineering to discover transformational medicines at GSK"
+    title: "AIML Research Engineering at GSK"
+    excerpt: "Python | PyTorch | Git | GCP | FastAPI | Docker | Sequence Learning | DevOps | Distributed Computing | OOD"
     url: "/aiml-gsk" 
     btn_class: "btn--primary"
     btn_label: "More Details"
+    
 
   - image_path: assets/images/dna-image.jpeg
     alt: "FLP rotation 1"
-    title: false
-    excerpt: "Leveraging high content profiling data at GSK for enhancing how we approach drug discovery"
+    title: "Leveraging Big data at GSK"
+    excerpt: "Python | R | Git | ETL | Bioinformatics | Flask | SSH Clients | HPC Clusters | Data visualisation"
     url: "/drugseq" 
     btn_class: "btn--primary"
     btn_label: "More Details"
 
   - image_path: assets/images/phenonaut-header.png
     alt: "Phenonaut"
-    title: false
-    excerpt: "Phenonaut: multiomics data integration for phenotypic space exploration. A publication I worked on at GSK."
+    title: "Phenonaut: multiomics data integration"
+    excerpt: "Python | PyPI | Publication | Scikit Learn | Literature Review | Research "
     url: "/phenonaut" 
     btn_class: "btn--primary"
     btn_label: "More Details"
 
   - image_path: assets/images/cambridge-logo.jpeg
     alt: "Cambridge Final Year Project"
-    title: false
-    excerpt: "Thesis - Using Statistical Shape Modelling to investigate the effect of hip rotation on joint space."
+    title: "Modelling Hip Joints in C++"
+    excerpt: "Python | C++ | Git | Medical Imaging | LaTeX | Spatial Statistics | Bayesian Modelling"
     url: "/cambridge-fyp" 
     btn_class: "btn--primary"
     btn_label: "More Details"
   
   - image_path: assets/images/gurdon_inst_logo_900.jpg
     alt: "Gurdon Institute"
-    title: false
-    excerpt: "Working on phenotypic data embeddings using CNNs at nobel laureate John Gurdon's Lab."
+    title: "Phenotypic embeddings using CNNs"
+    excerpt: "Python | PyTorch | CNNs | Statistics | Nobel Laureate"
     url: "/gurdon-lab" 
     btn_class: "btn--primary"
     btn_label: "More Details"
 
   - image_path: assets/images/ai-art/header.png
     alt: "AI art side project"
-    title: false
-    excerpt: "Collaboration with Slade School of Fine Art on the intricate ways in which technology and human experience are interlinked."
+    title: "Colab: Slade School of Fine Art"
+    excerpt: "OpenAI CLIP | GAN | GenAI | Open source | Art | Memory | Neuroscience"
     url: "/slade-ai"
     btn_class: "btn--primary"
     btn_label: "More Details"
