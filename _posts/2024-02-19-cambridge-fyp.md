@@ -38,7 +38,7 @@ Moreover, my research uncovered crucial sources of precision error within the JS
 In summary, my findings demonstrated the resilience of JSM to changes in hip rotation, with any induced measurement noise deemed insignificant compared to other sources of error. These insights pave the way for further advancements in the field of musculoskeletal imaging and analysis.
 
 
-## Project Highlights
+## :bulb: Project Highlights
 
 1. **Statistical Shape Modelling for Automated 3D Hip Joint Reconstruction:**
    I leveraged statistical shape modeling techniques to construct canonical models of the hip joint. This breakthrough allowed for the automated 3D reconstruction of hip joints from CT images, streamlining the imaging process and significantly reducing manual processing.
