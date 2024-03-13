@@ -2,10 +2,10 @@
 layout: splash
 permalink: /work/
 title: "My Work"
-tagline: "Welcome to my professional journey in the realm of machine learning and software engineering. With a focus on innovation and a passion for cutting-edge technology, I've spent the past few years at GlaxoSmithKline (GSK), where I've specialized in developing ML solutions with real-world impact. From creating recommender systems for genetic targets to architecting scalable pipelines for RNA structure prediction, I've thrived on solving complex problems at the intersection of biology and technology.
+tagline: "Welcome to my professional journey in machine learning and software engineering. I've spent the past few years at GlaxoSmithKline (GSK), where I've specialized in developing ML solutions with real-world impact. From creating recommender systems for genetic targets to architecting scalable pipelines for RNA structure prediction, I've enjoyed solving complex problems at the intersection of biology and technology.
 <br/>
 <br/>
-My journey began with a Masters from the University of Cambridge, where I delved deep into the world of AI and ML. Since then, I've been driven by a desire to push the boundaries of what's possible, whether it's through classical statistics or designing novel ML architectures. Join me as I continue to explore the endless possibilities of machine learning and software engineering, one project at a time.
+My journey began with a Masters from the University of Cambridge, where I specialised in Machine Learning and Information Engineering. Since then, I've been driven by a desire to push the boundaries of what's possible, whether it's through classical statistics or designing novel ML architectures. Each project helps me explore the endless possibilities of machine learning and software engineering.
 "
 header:
   overlay_filter: "0.5"
