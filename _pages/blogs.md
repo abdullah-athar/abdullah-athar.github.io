@@ -5,10 +5,9 @@ permalink: /blogs/
 header:
   overlay_filter: "0.5"
   overlay_color: "#000"
-  overlay_image: /assets/images/tech-helix.png
 
 feature_row:
-  - image_path: assets/images/aiml-header.jpeg
+  - image_path: assets/images/blogs/valencia_marathon.jpg
     alt: "valencia-marathon"
     title: "My Valencia Marathon 2024"
     url: "/blogs/valencia-marathon" 
