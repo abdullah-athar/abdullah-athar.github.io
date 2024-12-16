@@ -1,10 +1,11 @@
 ---
 layout: single
+classes: wide
 title: "Valencia Marathon"
 date: 2024-02-22
 categories: blogs
 tags: [running, marathon]
-sidebar: false
+author_profile: false
 header:
   overlay_image: "assets/images/blogs/valencia_marathon.jpg"
   overlay_filter: 0.3
@@ -12,6 +13,8 @@ header:
 
 excerpt_separator: "<!--more-->"
 ---
+
+
 <!--more-->
 
 If you’ve ever tried running in Lahore, Pakistan, you’ll know that it’s not just about lacing up your shoes and putting one foot in front of the other. The heat, the humidity, and the traffic alone are enough to make it feel more like an obstacle course than a steady training routine. Add in the poor air quality and limited access to safe running routes, and it quickly becomes clear why distance running in Lahore is such a challenge.
