@@ -11,7 +11,7 @@ feature_row:
   - image_path: assets/images/aiml-header.jpeg
     alt: "valencia-marathon"
     title: "My Valencia Marathon 2024"
-    url: "blogs/valencia-marathon" 
+    url: "/blogs/valencia-marathon" 
     btn_class: "btn--primary"
     btn_label: "Read Blog"
 
