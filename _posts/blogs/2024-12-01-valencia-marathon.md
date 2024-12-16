@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Valencia Marathon"
 date: 2024-02-22
 categories: blogs
