@@ -4,7 +4,11 @@ title: "Valencia Marathon"
 date: 2024-02-22
 categories: blogs
 tags: [running, marathon]
-featured_image: assets/images/blogs/valencia_marathon.jpg
+sidebar: false
+header:
+  overlay_image: "assets/images/blogs/valencia_marathon.jpg"
+  overlay_filter: 0.3
+  caption: "Running through Valencia and finishing on the blue carpet!"
 ---
 
 
