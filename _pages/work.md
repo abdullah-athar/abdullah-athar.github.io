@@ -13,6 +13,14 @@ header:
   overlay_image: /assets/images/tech-helix.png
 
 feature_row:
+  - image_path: assets/images/relation/relation_logo.png
+    alt: "Relation"
+    title: "Research Engineer at Relation"
+    excerpt: "More details coming soon! 🚀"
+    url: "/relation" 
+    btn_class: "btn--primary"
+    btn_label: "More Details"
+
   - image_path: assets/images/aiml-header.jpeg
     alt: "AI/ML"
     title: "AIML Research Engineering at GSK"

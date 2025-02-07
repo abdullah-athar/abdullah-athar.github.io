@@ -1,14 +1,13 @@
 ---
 layout: splash
-title: "Blog"
+title: Welcome to my blog
 permalink: /blogs/
-
+header:
+  overlay_image: assets/images/blogs/blog-header.jpg
+  overlay_filter: rgba(0, 0, 0, 0.5)
 tagline: "This will be my playground to learn about new things by trying to explain them in unique ways, and talk about my hobbies, achievements and misc topics meaningful to me"
 
 
-header:
-  overlay_filter: "0.5"
-  overlay_color: "#6A0DAD"
 
 feature_row:
   - image_path: assets/images/blogs/valencia_marathon.jpg

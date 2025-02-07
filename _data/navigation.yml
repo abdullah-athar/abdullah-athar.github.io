@@ -5,7 +5,7 @@ main:
     url: /work/
   - title: "Contact"
     url: /contact/
-  - title: "blog"
+  - title: "Blog"
     url: /blogs/
   # - title: "Resume"
   #   url: /resume.html
