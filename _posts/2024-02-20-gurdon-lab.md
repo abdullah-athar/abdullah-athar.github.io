@@ -41,15 +41,15 @@ excerpt_separator: "<!--more-->"
 - **Collaboration**: Worked closely with renowned researchers to achieve project objectives.
 - **Problem Solving**: Identified and addressed challenges in image analysis and classification.
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; margin: 3em 0;">
   {% if page.previous %}
     <div>
-      <a href="{{ page.previous.url }}">← Previous Post</a>
+      <a href="{{ page.previous.url }}" class="btn btn--primary" style="padding: 0.8em 1.6em; font-size: 1.1em; text-decoration: none; border-radius: 6px; background-color: #2c3e50; color: white; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1); &:hover { background-color: #34495e; transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.2); }">← Previous Work</a>
     </div>
   {% endif %}
   {% if page.next %}
     <div>
-      <a href="{{ page.next.url }}">Next Post →</a>
+      <a href="{{ page.next.url }}" class="btn btn--primary" style="padding: 0.8em 1.6em; font-size: 1.1em; text-decoration: none; border-radius: 6px; background-color: #2c3e50; color: white; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1); &:hover { background-color: #34495e; transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.2); }">Next Work →</a>
     </div>
   {% endif %}
 </div>
