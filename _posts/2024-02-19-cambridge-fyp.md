@@ -58,15 +58,21 @@ In this project, I investigated the sensitivity of Joint Space Mapping (JSM) to 
   <a href="https://doi.org/10.1038/s41598-020-59977-2" class="btn btn--primary" style="padding: 0.8em 1.6em; font-size: 1.1em; text-decoration: none; border-radius: 6px; background-color: #2c3e50; color: white; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1); &:hover { background-color: #34495e; transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.2); }">Read Paper</a>
 </div>
 
-<div style="display: flex; justify-content: space-between; margin: 3em 0;">
-  {% if page.previous %}
-    <div>
-      <a href="{{ page.previous.url }}" class="btn btn--primary" style="padding: 0.8em 1.6em; font-size: 1.1em; text-decoration: none; border-radius: 6px; background-color: #2c3e50; color: white; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1); &:hover { background-color: #34495e; transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.2); }">← Previous Work</a>
-    </div>
-  {% endif %}
-  {% if page.next %}
-    <div>
-      <a href="{{ page.next.url }}" class="btn btn--primary" style="padding: 0.8em 1.6em; font-size: 1.1em; text-decoration: none; border-radius: 6px; background-color: #2c3e50; color: white; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1); &:hover { background-color: #34495e; transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.2); }">Next Work →</a>
-    </div>
-  {% endif %}
+<div style="display: flex; justify-content: space-between; margin-top: 2em; padding: 1em 0;">
+  <div>
+    {% if page.previous %}
+      <a href="{{ page.previous.url }}" class="btn btn--primary">← Previous Post</a>
+    {% else %}
+      {% assign last_post = site.posts | last %}
+      <a href="{{ last_post.url }}" class="btn btn--primary">← Previous Post</a>
+    {% endif %}
+  </div>
+  <div>
+    {% if page.next %}
+      <a href="{{ page.next.url }}" class="btn btn--primary">Next Post →</a>
+    {% else %}
+      {% assign first_post = site.posts | first %}
+      <a href="{{ first_post.url }}" class="btn btn--primary">Next Post →</a>
+    {% endif %}
+  </div>
 </div>
