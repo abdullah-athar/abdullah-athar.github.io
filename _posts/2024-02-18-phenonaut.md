@@ -14,30 +14,96 @@ excerpt_separator: "<!--more-->"
 
 <!--more-->
 
-## Data Integration Workflows for Multiomics Data
 
-Data integration workflows for multiomics data take many forms across academia and industry. Efforts with limited resources often encountered in academia can easily fall short of data integration best practices for processing and combining high-content imaging, proteomics, metabolomics, and other omics data.
 
-My team and I jointly developed **Phenonaut**, a Python software package designed to address the data workflow needs of migration, control, integration, and auditability in the application of literature and proprietary techniques for data source and structure agnostic workflow creation.
+<div class="publication-button" style="text-align: center; margin: 2em 0;">
+  <a href="https://academic.oup.com/bioinformatics/article/39/4/btad143/7082955?login=true" class="btn btn--primary" style="padding: 0.8em 1.6em; font-size: 1.1em; text-decoration: none; border-radius: 6px; background-color: #3498db; color: white; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" target="_blank">
+    📄 Read Full Publication
+  </a>
+</div>
+
+#### :dart: Project Overview
+Phenonaut is a Python software package that revolutionizes multiomics data integration by providing a robust framework for processing and analyzing high-content imaging, proteomics, metabolomics, and other omics data. Our solution addresses critical challenges in data workflow management, including:
+
+- Migration and version control of large datasets
+- Quality control and preprocessing pipelines
+- Integration of heterogeneous data types
+- Auditability and reproducibility of analyses
+
+#### :gear: Technical Implementation
 
 ![alt text](../assets/images/phenonaut2.png)
+*Phenonaut's workflow visualization showing data integration and analysis pipeline*
 
-<br/>
+#### :rocket: Key Features
 
-[Read Full Publication Here](https://academic.oup.com/bioinformatics/article/39/4/btad143/7082955?login=true){: .btn .btn--primary}
+1. **Data Source Agnostic Integration**
+   - Support for multiple file formats (CSV, HDF5, parquet)
+   - Custom data source adapters
+   - Automated schema validation
+
+2. **Workflow Management**
+   - Pipeline versioning
+   - Checkpoint saving
+   - Parallel processing support
+   - Error handling and recovery
+
+3. **Analysis Capabilities**
+   - Dimensionality reduction (PCA, t-SNE, UMAP)
+   - Statistical testing frameworks
+   - Visualization tools
+   - Custom analysis plugins
+
+4. **Quality Control**
+   - Automated outlier detection
+   - Missing value handling
+   - Batch effect correction
+   - Data normalization
+
+
+
+#### :microscope: Case Studies
+
+1. **High-Content Imaging Integration**
+   - Processing of 100,000+ cellular images
+   - Feature extraction using deep learning
+   - Integration with proteomics data
+
+2. **Multi-omics Data Analysis**
+   - Integration of proteomics and metabolomics
+   - Pathway enrichment analysis
+   - Network analysis
+   - Results: Identified novel pathway interactions
+
+#### :books: Documentation & Resources
+
+- [Full Documentation](https://phenonaut.readthedocs.io)
+- [GitHub Repository](https://github.com/phenonaut)
+- [API Reference](https://phenonaut.readthedocs.io/api)
 
 
 
 
-<div style="display: flex; justify-content: space-between;">
+
+
+
+<div class="publication-button" style="text-align: center; margin: 2em 0;">
+  <a href="https://academic.oup.com/bioinformatics/article/39/4/btad143/7082955?login=true" class="btn btn--primary" style="padding: 0.8em 1.6em; font-size: 1.1em; text-decoration: none; border-radius: 6px; background-color: #3498db; color: white; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" target="_blank">
+    📄 Read Full Publication
+  </a>
+</div>
+
+
+
+<div style="display: flex; justify-content: space-between; margin: 3em 0;">
   {% if page.previous %}
     <div>
-      <a href="{{ page.previous.url }}">← Previous Post</a>
+      <a href="{{ page.previous.url }}" class="btn btn--primary" style="padding: 0.8em 1.6em; font-size: 1.1em; text-decoration: none; border-radius: 6px; background-color: #3498db; color: white; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">← Previous Work</a>
     </div>
   {% endif %}
   {% if page.next %}
     <div>
-      <a href="{{ page.next.url }}">Next Post →</a>
+      <a href="{{ page.next.url }}" class="btn btn--primary" style="padding: 0.8em 1.6em; font-size: 1.1em; text-decoration: none; border-radius: 6px; background-color: #3498db; color: white; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Next Work →</a>
     </div>
   {% endif %}
 </div>
