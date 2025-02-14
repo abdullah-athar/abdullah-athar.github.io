@@ -41,21 +41,4 @@ excerpt_separator: "<!--more-->"
 - **Collaboration**: Worked closely with renowned researchers to achieve project objectives.
 - **Problem Solving**: Identified and addressed challenges in image analysis and classification.
 
-<div style="display: flex; justify-content: space-between; margin-top: 2em; padding: 1em 0;">
-  <div>
-    {% if page.previous %}
-      <a href="{{ page.previous.url }}" class="btn btn--primary">← Previous Post</a>
-    {% else %}
-      {% assign last_post = site.posts | last %}
-      <a href="{{ last_post.url }}" class="btn btn--primary">← Previous Post</a>
-    {% endif %}
-  </div>
-  <div>
-    {% if page.next %}
-      <a href="{{ page.next.url }}" class="btn btn--primary">Next Post →</a>
-    {% else %}
-      {% assign first_post = site.posts | first %}
-      <a href="{{ first_post.url }}" class="btn btn--primary">Next Post →</a>
-    {% endif %}
-  </div>
-</div>
+ 
