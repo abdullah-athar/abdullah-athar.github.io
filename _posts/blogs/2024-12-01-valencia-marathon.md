@@ -50,6 +50,10 @@ There were untidy details too. The heart-rate strap chafed my side until the blo
 
 The marathon was only the visible paragraph of a long, unglamorous book. The real thing was built elsewhere: loops around Butts Close, Tuesday sessions with the boys, long runs with Kate on the bike beside me, steady and kind. The race was the line you see; the training was the pages that came before it.
 
+![Valencia Orange Juice](../../../assets/images/blogs/valencia_orange.jpg)
+
+*Enjoying tasty Valencia orange juice after completing the marathon. Just what the doctor ordered...*
+
 
 ## Next Goals 🎯
 

@@ -15,7 +15,7 @@ header:
 feature_row:
   - image_path: assets/images/relation/relation_logo.png
     alt: "Relation"
-    title: "Research Engineer at Relation"
+    title: "Research Engineering at Relation"
     excerpt: "More details coming soon! 🚀"
     url: "/relation" 
     btn_class: "btn--primary"
@@ -23,7 +23,7 @@ feature_row:
 
   - image_path: assets/images/aiml-header.jpeg
     alt: "AI/ML"
-    title: "AIML Research Engineering at GSK"
+    title: "Research Engineering at GSK"
     excerpt: "Python | PyTorch | Git | GCP | FastAPI | Docker | Sequence Learning | DevOps | Distributed Computing | OOD"
     url: "/aiml-gsk" 
     btn_class: "btn--primary"
@@ -43,6 +43,14 @@ feature_row:
     title: "Phenonaut: multiomics data integration"
     excerpt: "Python | PyPI | Publication | Scikit Learn | Literature Review | Research "
     url: "/phenonaut" 
+    btn_class: "btn--primary"
+    btn_label: "More Details"
+  
+  - image_path: assets/images/leakproof-cmap.png
+    alt: "Leak Proof CMap"
+    title: "Leak Proof CMap: Rigorous Benchmarking for L1000 Phenotypic Similarity Methods"
+    excerpt: "PyTorch | Bioinformatics | Benchmarking | Triplet Loss"
+    url: "/leakproofcmap"
     btn_class: "btn--primary"
     btn_label: "More Details"
 
@@ -69,6 +77,8 @@ feature_row:
     url: "/slade-ai"
     btn_class: "btn--primary"
     btn_label: "More Details"
+
+ 
 
 ---
 
