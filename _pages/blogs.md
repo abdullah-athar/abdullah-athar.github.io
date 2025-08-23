@@ -5,7 +5,7 @@ permalink: /blogs/
 header:
   overlay_image: assets/images/blogs/blog-header.jpg
   overlay_filter: rgba(0, 0, 0, 0.5)
-tagline: "A small corner where I think aloud: running, science, and the odd obsession, all told in my voice (testing livereload)"
+tagline: "A small corner where I think aloud: running, science, and the odd obsession, all told in my voice"
 
 
 
