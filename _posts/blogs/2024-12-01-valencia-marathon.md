@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "Valencia Marathon"
-date: 2024-02-22
+date: 2024-12-01
 categories: blogs
 tags: [running, marathon]
 author_profile: false
@@ -17,9 +17,9 @@ excerpt_separator: "<!--more-->"
 
 <!--more-->
 
-If you’ve ever tried running in Lahore, Pakistan, you’ll know that it’s not just about lacing up your shoes and putting one foot in front of the other. The heat, the humidity, and the traffic alone are enough to make it feel more like an obstacle course than a steady training routine. Add in the poor air quality and limited access to safe running routes, and it quickly becomes clear why distance running in Lahore is such a challenge.
+In Lahore, running is not a simple transaction of shoes and road. It is a small negotiation with heat, noise, and the stubborn air that sits on the streets like a thought that refuses to move on. You run anyway. You learn to keep a clean line inside your head when the city won’t give you one outside. Valencia, by contrast, felt like a clear sky, sea wind, and a clock that finally said what I had been trying to say: 2 hours and 41 minutes; just about!
 
-But recently, I managed something I’m still trying to wrap my head around: finishing the Valencia Marathon in a personal best time of 2 hours and 41 minutes. As an athlete who grew up in Pakistan and associates with Lahore for food, climate and family, this feels like a huge achievement. To put things into perspective, for 2024, here are the fastest times by Pakistani Athletes in the marathon distance: 
+For someone raised in Pakistan and shaped by Lahore’s weather, food, and family, it felt like a quiet turning of the page. To place it in context, here are some marathon times by Pakistani runners in 2024:
 
 🇯🇵 Tokyo: Nizar Nayani - 2:53
 🇺🇸 Boston: Hamza Syed - 2:43
@@ -29,6 +29,7 @@ But recently, I managed something I’m still trying to wrap my head around: fin
 🇺🇸 NYC: Ali Hamza - 2:41
 🏁 Valencia: Abdullah Athar - 2:41
 
+
 ## Training Journey
 
 I kicked off my Valencia Marathon training block while visiting family in Lahore. Due to the intense winter smog, most of my early runs were on treadmills — not ideal, but a necessary adaptation. Lahore’s challenging environment makes outdoor running tough, yet it also builds mental grit and resilience.
@@ -37,22 +38,19 @@ After returning to the UK, I continued my training in much more runner-friendly 
 
 For runners in Pakistan, winter is still one of the best times to train — cooler mornings and crisp air (once the smog clears) make for great long runs. If you can adapt to Lahore’s challenges, you can run anywhere. I averaged ~90 km / week for the training block. 
 
-## The Valencia Marathon: A Journey of Emotions
+## Race Day
 
 On race day in Valencia, the conditions were nearly perfect. I was surrounded by runners from all over the world, all with their own stories, their own difficulties left behind to chase a goal in this vibrant Spanish city.
 
-- **At 31K and 39K, Tears Came:** Not out of pain, but out of the dawning realization that “I can do this.” Those were powerful moments that caught me off-guard, especially when right before the second time, I spotted my wife cheering me on. Her unwavering support, both on and off the course, reminded me why I was here.
-- **Unexpected Struggles:** My heart rate monitor’s band chafed my lats, leading to bleeding through my top and onto my once-white shoes. The blood wasn’t a deterrent but a reminder that the body, and the mind, were fully engaged in this effort.
-- **The Finish Line and the Best Paella:** Crossing the finish line was surreal. After months of training and thousands of kilometers, the result was a time I could hardly believe. And the reward? An authentic Valencian paella to top it all off. It was a fitting tribute to a day I’ll never forget.
+Somewhere around 31 km, and again at 39, my eyes filled. Not from pain. From the simple recognition that the line I had been tracing would reach the finish. Just before the second time, I saw my wife on the side. A small wave, a familiar face, and something in me loosened.
 
-## Reflecting on the 2:41 Finish
+There were untidy details too. The heart-rate strap chafed my side until the blood found its way onto my shirt and shoes. It looked worse than it felt, which is often the case. I kept moving. The blue carpet appeared when it should, and then it was done. Later, there was paella—hot, fragrant, unpretentious. The kind of meal that lets the day end without argument.
 
-The marathon block started on treadmills and jogging tracks in Lahore, where running tests your grit in every way. It continued in Hitchin, where opportunity and environment helped me refine my craft. It ended in Valencia, where the race itself was an emotional tapestry.
+## After the Clock
 
-The race itself was just a victory lap--it's the endless training loops around butts close, the tuesday sessions with the boys and the long runs with the Kate on the bike that made it incredible.
+The marathon was only the visible paragraph of a long, unglamorous book. The real thing was built elsewhere: loops around Butts Close, Tuesday sessions with the boys, long runs with Kate on the bike beside me, steady and kind. The race was the line you see; the training was the pages that came before it.
 
 
 ## Next Goals 🎯
-🏁 Target: Sub-2:38 at the London Marathon 2026 – chasing the championship standard!
 
-To hit this goal, I'll need to average a pace of 3:45 min/km (6:02 min/mile) over the entire marathon distance. My current splits were 3:48 min/km but 3 seconds feel huge when the margins are this tight!
+I’m aiming for sub-2:38 at the London Marathon 2026—the championship standard. To get there I’ll need 3:45 per kilometre (6:02 per mile), not once or twice but across the length of the thing. My current rhythm sits near 3:48 per kilometre. Three seconds can feel small on a watch and large in the legs. Still, small differences add up, the way consistent mornings add up. Inshallah, we keep going.
