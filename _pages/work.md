@@ -16,7 +16,7 @@ feature_row:
   - image_path: assets/images/relation/relation_logo.png
     alt: "Relation"
     title: "Research Engineering at Relation"
-    excerpt: "More details coming soon! 🚀"
+    excerpt: "Python | PyTorch | DNA Language Models | MLOps | Foundation Models | UV Workspaces | Benchmarking | DGX Nodes"
     url: "/relation" 
     btn_class: "btn--primary"
     btn_label: "More Details"
