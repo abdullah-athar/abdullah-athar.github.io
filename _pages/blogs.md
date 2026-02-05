@@ -10,6 +10,12 @@ tagline: "A small corner where I think aloud: running, science, and the odd obse
 
 
 feature_row:
+  - image_path: assets/images/blogs/pakistani_dream/lahore.jpg
+    alt: "the-pakistani-dream"
+    title: "The Pakistani Dream"
+    url: "/blogs/the-pakistani-dream/"
+    btn_class: "btn--primary"
+    btn_label: "Read Blog"
   - image_path: assets/images/blogs/valencia_marathon.jpg
     alt: "valencia-marathon"
     title: "Valencia, the blue carpet, and not bonking"
